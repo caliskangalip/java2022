@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week01/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/week01/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/week01/conditionals/conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/week01/dataTypes/dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/dataTypes1/dataTypes1.iml" filepath="$PROJECT_DIR$/week01/dataTypes1/dataTypes1.iml" />
