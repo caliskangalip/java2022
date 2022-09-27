@@ -14,5 +14,11 @@ public class Main {
         }
         System.out.println("While döngüsü bitti");
 
+        //Do While loop
+        do {
+            System.out.println(i);
+            i--;
+        }while (i>0);
+        System.out.println("Do While döngüsü bitti");
     }
 }
