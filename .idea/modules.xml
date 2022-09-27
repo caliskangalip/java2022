@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week01/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/week01/dataTypes/dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/java2022.iml" filepath="$PROJECT_DIR$/java2022.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week01/variables/variables/variables.iml" filepath="$PROJECT_DIR$/week01/variables/variables/variables.iml" />
     </modules>
   </component>
 </project>

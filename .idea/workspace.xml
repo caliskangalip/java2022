@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week01/variables/variables/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week01/variables/variables/variables.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/variables/variables/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/variables/variables/variables.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +44,15 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables" />
+      <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="variables" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
