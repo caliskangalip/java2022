@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week01/arkadasSayilar/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/arraysDemo/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/conditionals/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/miniProjeAsalSayi/src/Main.java" afterDir="false" />
@@ -62,7 +63,7 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="sesliHarfler" />
@@ -77,9 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="multiDimensionalArrayDemo" />
+      <module name="arkadasSayilar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
