@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/week01/arraysDemo/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/conditionals/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/miniProjeAsalSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week01/mukemmelSayi/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/multiDimensionalArrayDemo/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/recapDemo1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/recapDemo2/src/Main.java" afterDir="false" />
@@ -61,7 +62,7 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="sesliHarfler" />
@@ -69,9 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="recapDemo2" />
+      <module name="mukemmelSayi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
