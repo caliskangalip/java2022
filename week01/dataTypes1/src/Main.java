@@ -6,7 +6,7 @@ public class Main {
         long sayiLong = 92080;
         double sayiDouble= 12.5;
         boolean sayiBool = true;
-        char sayiChar = 'O';
+        char sayiChar = 'E';
         String sayiString = "Beş";
         System.out.println(sayiString+sayiInt+sayiShort+sayiByte+sayiLong+sayiDouble+sayiBool+sayiChar);
     }
