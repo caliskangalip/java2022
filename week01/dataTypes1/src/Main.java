@@ -5,9 +5,9 @@ public class Main {
         byte sayiByte = 127;
         long sayiLong = 92080;
         double sayiDouble= 12.5;
-        boolean sayiBool = true;
+        boolean dogruMu = true;
         char sayiChar = 'E';
         String sayiString = "Beş";
-        System.out.println(sayiString+sayiInt+sayiShort+sayiByte+sayiLong+sayiDouble+sayiBool+sayiChar);
+        System.out.println(sayiString+sayiInt+sayiShort+sayiByte+sayiLong+sayiDouble+dogruMu+sayiChar);
     }
 }
