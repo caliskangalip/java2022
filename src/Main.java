@@ -31,6 +31,6 @@ public class Main {
             System.out.println("Sayı tam yirmidir");
         } else {
             System.out.println("Sayı sıfırdan küçük");
-        }
+        }*/
     }
 }
