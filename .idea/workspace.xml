@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/week01/multiDimensionalArrayDemo/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/recapDemo1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/recapDemo2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week01/sesliHarfler/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/stringsDemo/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/stringsDemo/stringsDemo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week01/switchDemo/src/Main.java" afterDir="false" />
@@ -60,10 +61,10 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="arraysDemo" />
+      <module name="sesliHarfler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
