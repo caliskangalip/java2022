@@ -9,5 +9,9 @@ public class Main {
 
         ProductManager productManager=new ProductManager();
         productManager.add(product);
+
+        //Constructor metodu ile çalışmak
+        Product product1=new Product(2,"Fırın", "Delonghi Fast", 8900,7);
+        productManager.add(product1);
     }
 }
