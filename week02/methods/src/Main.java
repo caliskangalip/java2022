@@ -14,9 +14,9 @@ public class Main {
             }
         }
         if (isThere){
-            showMessage("This number is there in series!");
+            showMessage("This number there is in series!");
         }else {
-            showMessage("This number is not there in series!");
+            showMessage("This number there is not in series!");
         }
     }
     public static void showMessage(String text){
