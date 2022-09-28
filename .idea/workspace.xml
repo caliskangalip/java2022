@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/inheritanceDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/AskerKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritanceDemo/src/TarimKrediManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,10 +56,10 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="variableArguments" />
+      <module name="inheritanceDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
