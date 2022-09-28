@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         String name="Galip";
         int yearOfBirth=2015;
+
         sayHello(name);
         evaluateForAge(yearOfBirth);
     }
@@ -13,9 +14,12 @@ public class Main {
         showMessage("Welcome Mr. "+ incomingName);
         showMessage("When were you born?");
     }
+    public static int calculateAge(int year){
+        return 2022-year;
+    }
     public static void evaluateForAge(int incomingYear){
         showMessage("Really, oh! "+incomingYear);
-        int age = 2022-incomingYear;
+        int age = calculateAge(incomingYear);
         if (12<age && age<100){
             showMessage("Congratulations you are "+age);
         }else {
