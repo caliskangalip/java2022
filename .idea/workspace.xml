@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week02/classesWithAttributes/classesWithAttributes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/ProductManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/classesWithAttributes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/classesWithAttributes/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/classesWithAttributes/src/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/week02/classesWithAttributes/src/ProductManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
