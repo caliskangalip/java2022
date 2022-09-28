@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week02/methodOverloading/methodOverloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/methodOverloading/src/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week02/methodOverloading/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/inheritance/src/PersonManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\galip\IdeaProjects\java2022\week02\inheritance\src" />
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables" />
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
