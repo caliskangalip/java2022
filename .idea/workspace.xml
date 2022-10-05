@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/abstractClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/src/GameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/src/KidsGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/src/ManGameCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/abstractClasses/src/WomanGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/abstractDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/BaseDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/MySqlDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/OracleDatabseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/abstractDemo/src/SqlServerDatabaseManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,14 +57,7 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="inheritanceDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="polimorphismDemo" />
@@ -85,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="abstractDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="methodOverloading" />
@@ -94,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
