@@ -1,15 +1,15 @@
 package oopWithNLayeredApp.entities;
 
-public class Products {
+public class Product {
     private int id;
     private String name;
     private double unitPrice;
 
-    public Products() {
+    public Product() {
         super();
     }
 
-    public Products(int id, String name, double unitPrice) {
+    public Product(int id, String name, double unitPrice) {
         super();
         this.id = id;
         this.name = name;

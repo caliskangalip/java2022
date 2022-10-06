@@ -4,7 +4,7 @@ import oopWithNLayeredApp.core.logging.Logger;
 import oopWithNLayeredApp.dataAccess.HibernateProductDao;
 import oopWithNLayeredApp.dataAccess.JdbcProductDao;
 import oopWithNLayeredApp.dataAccess.ProductDao;
-import oopWithNLayeredApp.entities.Products;
+import oopWithNLayeredApp.entities.Product;
 
 import java.util.List;
 
@@ -19,7 +19,7 @@ public class ProductManager {
     }
 
 
-    public void add(Products product) throws Exception{
+    public void add(Product product) throws Exception{
         //iş kuralları
         if (product.getUnitPrice()<10){
             throw new Exception("Ürün fiyatı 10 liradan daha az olamaz");

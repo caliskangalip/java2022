@@ -1,7 +1,7 @@
 package oopWithNLayeredApp.dataAccess;
 
-import oopWithNLayeredApp.entities.Products;
+import oopWithNLayeredApp.entities.Product;
 
 public interface ProductDao {
-    void add(Products product);
+    void add(Product product);
 }
