@@ -14,6 +14,7 @@ namespace HelloWorld
     customer.Id=1;
     customer.FirstName="Galip";
     customer.LastName="ÇALIŞKAN";
+    customer.City="Ankara";
     customer.NationalIdentity="123456789";
     
     Console.WriteLine(customer.FirstName+" "+ customer.LastName);
@@ -52,9 +53,13 @@ namespace HelloWorld
   Console.WriteLine("Müşteri nesnesi başlatıldı");
   }
   public int Id{get; set;}
+  public string City {get; set;}
   public string FirstName {get; set;}
   public string LastName {get; set;}
   public string NationalIdentity {get; set;}
+  }
+  class Person : Customer
+  {
   }
   class Company : Customer
   {
