@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/week03/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/week03/abstractClasses/abstractClasses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week03/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/week03/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/week03/homeWork2/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/week03/homeWork2/abstractDemo/abstractDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/week01/arkadasSayilar/arkadasSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/week01/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/classes/classes.iml" filepath="$PROJECT_DIR$/week02/classes/classes.iml" />
@@ -13,8 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/week01/dataTypes1/dataTypes1.iml" filepath="$PROJECT_DIR$/week01/dataTypes1/dataTypes1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/week02/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/week02/inheritanceDemo/inheritanceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week03/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/week03/interfaceDemo/interfaceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week03/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/week03/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/week03/homeWork2/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/java2022.iml" filepath="$PROJECT_DIR$/java2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/week01/loopDemo/loopDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/week02/methodOverloading/methodOverloading.iml" />
@@ -24,8 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/week01/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/week01/mukemmelSayi/mukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/week01/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/week03/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week03/overriding/overriding.iml" filepath="$PROJECT_DIR$/week03/overriding/overriding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week03/polimorphismDemo/polimorphismDemo.iml" filepath="$PROJECT_DIR$/week03/polimorphismDemo/polimorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/overriding/overriding.iml" filepath="$PROJECT_DIR$/week03/homeWork2/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/homeWork2/polimorphismDemo/polimorphismDemo.iml" filepath="$PROJECT_DIR$/week03/homeWork2/polimorphismDemo/polimorphismDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/week01/recapDemo1/recapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/week01/recapDemo2/recapDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/recapDemo_Classes/recapDemo_Classes.iml" filepath="$PROJECT_DIR$/week02/recapDemo_Classes/recapDemo_Classes.iml" />
