@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/interfaceDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/oopWithNLayeredApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/business/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/core/logging/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/core/logging/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/core/logging/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/core/logging/MailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/dataAccess/HibernateProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/dataAccess/JdbcProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/dataAccess/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/entities/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/oopWithNLayeredApp/src/oopWithNLayeredApp/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
