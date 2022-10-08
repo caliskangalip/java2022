@@ -20,7 +20,7 @@ namespace HelloWorld
     Console.WriteLine(customer.FirstName+" "+ customer.LastName);
     creditManager.Save(customer);
     
-    CustomerManager customerManager=new CustomerManager(customer);
+    CustomerManager customerManager=new CustomerManager(customer, new TeacherCreditManager());
     customerManager.Save();
     customerManager.Delete();
     
@@ -28,13 +28,16 @@ namespace HelloWorld
     company.FirstName="Çakmaktaşlar Ltd";
     company.TaxNumber="456789";
     
-    CustomerManager customerManager2=new CustomerManager(company);
+    CustomerManager customerManager2=new CustomerManager(company, new MilitaryCreditManager());
     customerManager2.Save();
+    customerManager2.GiveCredit();
     customerManager2.Delete();
     
     Console.ReadLine();
     }
   }
+    //==========================Credit==========================
+    
   class CreditManager
   {
   public void Calculate()
@@ -46,6 +49,39 @@ namespace HelloWorld
   Console.WriteLine("Kredi verildi : "+customer.FirstName+" "+customer.LastName);
   }
   }
+  interface ICreditManager
+  {
+  void Calculate();
+  void Save();
+  }
+  
+  class TeacherCreditManager : BaseCreditManager, ICreditManager
+  {
+  	public override void Calculate()
+    {
+    Console.WriteLine("Öğretmen kredisi hesaplandı");
+    }
+  }
+  
+  class MilitaryCreditManager : BaseCreditManager, ICreditManager
+  {
+  public override void Calculate()
+    {
+    Console.WriteLine("Asker kredisi hesaplandı");
+    }
+  }
+  
+    abstract class BaseCreditManager : ICreditManager
+  {
+  	//Calculate fonksiyonu abstract olduğu için alt sınıflarda tanımlanmalıdır!
+  	public abstract void Calculate();
+    public void Save()
+    {
+    	Console.WriteLine("Kaydedildi");
+    }
+  }
+  
+  //==========================Customer==========================
   class Customer
   {
   public Customer()
@@ -58,6 +94,8 @@ namespace HelloWorld
   public string LastName {get; set;}
   public string NationalIdentity {get; set;}
   }
+  
+  
   class Person : Customer
   {
   }
@@ -65,19 +103,31 @@ namespace HelloWorld
   {
   public string TaxNumber {get; set;}
   }
+  
+  
   class CustomerManager
   {
   private Customer _customer;
-  public CustomerManager(Customer customer)
+  private ICreditManager _creditManager;
+  
+  public CustomerManager(Customer customer, ICreditManager creditManager)
   {
   _customer = customer;
+  _creditManager = creditManager;
   }
+  
   public void Save()
   {
-  Console.WriteLine("Müşteri kaydedildi : "+_customer.FirstName);
-  }public void Delete()
+  	Console.WriteLine("Müşteri kaydedildi : "+_customer.FirstName);
+  }
+  public void Delete()
   {
-  Console.WriteLine("Müşteri silindi : "+_customer.FirstName);
+  	Console.WriteLine("Müşteri silindi : "+_customer.FirstName);
+  }
+  public void GiveCredit()
+  {
+  	_creditManager.Calculate();
+    Console.WriteLine("Kredi verildi : "+_customer.FirstName);
   }
   }
 }
