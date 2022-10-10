@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/week03/homeWork1/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork1/src/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/homeWork1/src/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork1/src/CustomerManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/homeWork1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/homeWork1/src/TeacherCreditManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork1/src/TeacherCreditManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="interfaces" />
@@ -63,9 +62,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="overriding" />
+      <module name="homeWork1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>

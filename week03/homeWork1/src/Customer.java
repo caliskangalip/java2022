@@ -2,6 +2,25 @@ public class Customer {
     public void Customer() {
         System.out.println("Müşteri nesnesi başlatıldı");
     }
+    public String firstName;
+    public String companyName;
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getCompanyName() {
+        return companyName;
+    }
+
+    public void setCompanyName(String companyName) {
+        this.companyName = companyName;
+    }
+
     private int id;
     private String city;
 
