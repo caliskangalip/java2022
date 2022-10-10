@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/IEatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/IPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/IWorkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/OutSourceWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
