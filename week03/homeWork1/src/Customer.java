@@ -1,5 +1,5 @@
 public class Customer {
-    public void Customer(){
+    public void Customer() {
         System.out.println("Müşteri nesnesi başlatıldı");
     }
     private int id;

@@ -6,6 +6,6 @@ public class CustomerManager {
         _creditManager=creditManager;
     }
     public void save(){
-        System.out.println("Müşteri kaydedildi : "+_customer.getName);
+        System.out.println("Müşteri kaydedildi : ");
     }
 }
