@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/kodlamaIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/CategoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/CourseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/EducatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/EmailLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryHibernateDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryJdbcDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseHibernateDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseJdbcDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorHibernateDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorJdbcDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Educator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
