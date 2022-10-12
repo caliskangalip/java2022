@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/src/DatabaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/src/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/src/ProductValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork2/staticDemo/staticDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/kodlamaIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/business/EducatorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryHibernateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CategoryJdbcDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseHibernateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/CourseJdbcDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorHibernateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/dataAccess/EducatorJdbcDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homeWork3/kodlamaIO/src/entities/Educator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,7 +73,7 @@
       <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="interfaces" />
@@ -80,9 +95,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="abstractDemo" />
+      <module name="kodlamaIO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
