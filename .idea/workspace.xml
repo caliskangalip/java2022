@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="" />
+    <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork2/interfaceDemo/src/Robot.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,14 +46,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java2022\week03\homeWork5\gameProject\src" />
+      <recent name="C:\java2022\week03\homeWork5\gameProject" />
       <recent name="C:\Users\galip\IdeaProjects\java2022\week03\homeWork2" />
       <recent name="C:\Users\galip\IdeaProjects\java2022\week03\abstractClasses\src" />
       <recent name="C:\Users\galip\IdeaProjects\java2022\week02\inheritance\src" />
-      <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables" />
-      <recent name="C:\Users\galip\IdeaProjects\java2022\week01\variables\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="interfaces" />
@@ -87,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
