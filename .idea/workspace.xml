@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/gameProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/CampaignManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/Gamer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/GamerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/ICampaignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/IGamerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/IUserValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/NewEStateUserValidationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/UserValidationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/homeWork5/gameProject/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f8a829b-e2d7-4141-be1d-419521cd3567" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
